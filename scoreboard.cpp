@@ -14,7 +14,7 @@
 ///
 /// Author:	Piotr Kobusinski
 ///
-/// Date:	22.01.2023
+/// Date:	22.11.2023
 ///
 /// Parameters:
 /// _cfg - 	   	[in,out] If non-null, the configuration.
@@ -49,7 +49,7 @@ Scoreboard::Scoreboard(Config* _cfg, sf::RenderWindow* _wnd)
 ///
 /// Author:	Piotr Kobusinski
 ///
-/// Date:	22.01.2023
+/// Date:	22.11.2023
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Scoreboard::~Scoreboard()
@@ -63,7 +63,7 @@ Scoreboard::~Scoreboard()
 ///
 /// Author:	Piotr Kobusinski
 ///
-/// Date:	22.01.2023
+/// Date:	22.11.2023
 ///
 /// Parameters:
 /// _points - 	The points to be presented.
