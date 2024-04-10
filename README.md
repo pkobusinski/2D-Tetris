@@ -35,7 +35,7 @@ This project is an implementation of the classic Tetris game in C++ using the Si
 
 ## Authors
 - Piotr Kobusiński
-- Hubert Błaszczyk  
+ 
 
 
 ## Sample Screenshot
