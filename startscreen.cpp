@@ -8,7 +8,7 @@ Start_screen::Start_screen(Config* _cfg, sf::RenderWindow* _wnd, float _width, f
 	background.setTexture(cfg->get_texture(TextureType::START_BKG));
 	background.setPosition(0, 0);
 
-	set_footer("(c) Hubert Blaszczyk Piotr Kobusinski '2023");
+	set_footer("(c) Piotr Kobusinski '2023");
 
 	lines[0].label = "New Game";
 	lines[1].label = "Options";
